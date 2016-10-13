@@ -1,3 +1,5 @@
+#get the minimum number of deletions to make two strings anagrams of each other
+
 from collections import Counter
 
 def number_needed(a, b):
